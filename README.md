@@ -1,5 +1,9 @@
-Turkish-Lorem-Ipsum
-===================
+
+Tengri Teg
+==========
+
+Türkçe Lorem Ipsum
+------------------
 
 Türkçe'ye uygun dizgi ön izlemesi için mıgır metin. 
 
